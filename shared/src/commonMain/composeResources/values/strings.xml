@@ -1,0 +1,23 @@
+<resources>
+    <!-- General resources -->
+
+    <string name="navigate_back">Back</string>
+
+    <string name="nav_destination_home">Home</string>
+    <string name="nav_destination_weather">Weather</string>
+
+    <string name="api_access_hokkaido">北海道で検索</string>
+    <string name="api_access_tokyo">東京で検索</string>
+    <string name="api_access_hyogo">兵庫で検索</string>
+    <string name="api_access_oita">大分で検索</string>
+    <string name="api_access_click">現在地で検索</string>
+
+    <string name="local_access_cache_error">Cacheはまだ保存されていません</string>
+
+    <string name="api_access_loading">通信中</string>
+    <string name="api_access_idle">待機中</string>
+    <string name="api_access_error">通信に失敗しました</string>
+    <string name="api_access_retry">リトライ</string>
+
+    <!-- Screen resources -->
+</resources>
